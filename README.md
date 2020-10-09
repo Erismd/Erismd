@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Eri.</h2>
+<p align="center">
+  <a href="https://twitter.com/erismd515">Twitter</a>
+</p>
 
 <!--
 **Erismd/Erismd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
