@@ -5,13 +5,15 @@
 <a href="https://www.linkedin.com/in/erismd/">
   <img align="left" alt="Eri's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<br>
 <br>
 
 **Talking about Personal Stuffs:**
 
 - 🚀 I’m currently working on something cool.
 - 👩‍💻 I’m currently learning Python and GraphQL.
-- 💬 Ask me about cats.
-- 📫 How to reach me: [Eri Shimada](https://www.linkedin.com/in/erismd/);
-- 📝[Resume](https://docs.google.com/document/d/1bxHRCHpXG79VtZcV9PsZ5ALNuC-ogRZ5Z3YKEvEAg5g/edit?usp=sharing)
+- 💬 Ask me about my cats.
+- 📫 How to reach me: [Eri Shimada](https://www.linkedin.com/in/erismd/).
+- 📝 [Resume](https://docs.google.com/document/d/1bxHRCHpXG79VtZcV9PsZ5ALNuC-ogRZ5Z3YKEvEAg5g/edit?usp=sharing)
 
