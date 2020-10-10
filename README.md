@@ -9,7 +9,7 @@
 <br>
 <br>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🚀 I’m currently working on something cool.
 - 👩‍💻 I’m currently learning Python and GraphQL.
