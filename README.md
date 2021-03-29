@@ -12,7 +12,7 @@
 **Talking about Personal Stuff:**
 
 - 🚀 I’m currently working on something cool.
-- 👩‍💻 I’m currently learning Python and GraphQL.
+- 👩‍💻 I’m currently learning Swift.
 - 💬 Ask me about my cats.
 - 📫 How to reach me: [Eri Shimada](https://www.linkedin.com/in/erismd/).
 - 📝 [Resume](https://docs.google.com/document/d/1bxHRCHpXG79VtZcV9PsZ5ALNuC-ogRZ5Z3YKEvEAg5g/edit?usp=sharing)
