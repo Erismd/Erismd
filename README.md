@@ -11,7 +11,7 @@
 
 **Talking about Personal Stuff:**
 
-- 🚀 I’m currently working on something cool.
+- 🚀 I’m currently working on iOS SDK development.
 - 👩‍💻 I’m currently learning Swift.
 - 💬 Ask me about my cats.
 - 📫 How to reach me: [Eri Shimada](https://www.linkedin.com/in/erismd/).
