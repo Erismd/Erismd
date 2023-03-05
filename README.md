@@ -11,9 +11,9 @@
 
 **Talking about Personal Stuff:**
 
-- 🚀 I’m currently working on iOS SDK development.
-- 👩‍💻 I’m currently learning Swift.
-- 💬 Ask me about my cats.
+- 🚀 I’m currently working on Web application development.
+- 👩‍💻 I’m currently learning Next.js.
+- 💬 Ask me about my dog.
 - 📫 How to reach me: [Eri Shimada](https://www.linkedin.com/in/erismd/).
 - 📝 [Resume](https://docs.google.com/document/d/1bxHRCHpXG79VtZcV9PsZ5ALNuC-ogRZ5Z3YKEvEAg5g/edit?usp=sharing)
 
